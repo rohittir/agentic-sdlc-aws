@@ -1,0 +1,12 @@
+{
+  "serviceName": "orders-api",
+  "repoUrl": "https://github.com/acme/orders-api",
+  "eventType": "INCIDENT",
+  "jiraKey": "ORD-125",
+  "incident": {
+    "description": "5xx rate on POST /orders above 5% since 10:05 UTC",
+    "alarmName": "orders-api-5xx",
+    "startTime": "2026-11-16T10:00:00Z",
+    "endTime": "2026-11-16T11:00:00Z"
+  }
+}

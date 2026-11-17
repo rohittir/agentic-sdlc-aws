@@ -1,0 +1,6 @@
+{
+  "serviceName": "orders-api",
+  "repoUrl": "https://github.com/acme/orders-api",
+  "eventType": "FEATURE",
+  "jiraKey": "ORD-124"
+}
